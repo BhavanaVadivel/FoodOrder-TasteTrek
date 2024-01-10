@@ -1,5 +1,5 @@
 # Food Order Project - Taste Trek
-
+## Overview
 This web application facilitates food ordering by providing an intuitive interface for users to browse and place food orders.<br>
 Taste Trek, is dedicated to revolutionizing the food ordering experience. It offers users an user friendly and seamless interface, redefining how they explore, select, and place food orders.
 
